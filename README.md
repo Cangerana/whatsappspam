@@ -1,4 +1,4 @@
-Script to spamming Whatsapp mensagers through WhatsappWeb
+Simple bot made in ruby to spam messages to WhatsappWeb
 
 You need:
 
